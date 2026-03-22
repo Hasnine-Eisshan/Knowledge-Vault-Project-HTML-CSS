@@ -69,7 +69,7 @@ nav .links a{
     margin-bottom: 16px;
 }
 #hero {
-    background-image: url(../Resources/assets/hero-bg.png);
+    background-image: url(Resources/assets/hero-bg.png);
     height: 674px;
     display: flex;
     justify-content: center;
