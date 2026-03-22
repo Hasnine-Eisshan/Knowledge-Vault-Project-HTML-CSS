@@ -69,7 +69,7 @@ nav .links a{
     margin-bottom: 16px;
 }
 #hero {
-    background-image: url(/Resources/assets/hero-bg.png);
+    background-image: url(../Resources/assets/hero-bg.png);
     height: 674px;
     display: flex;
     justify-content: center;
@@ -212,4 +212,27 @@ nav .links a{
     margin-top: 24px;
     margin-bottom: 16px;
 }
-
+footer{
+    background-color: #001931;
+    color: white;
+}
+footer .logo-con{
+    padding: 120px 120px 80px 120px;
+    display: flex;
+    justify-content: space-between;
+}
+footer .logo-con p{
+    padding-bottom: 16px;
+    font-size: 20px;
+}
+footer .logo-con .s-logos{
+    display: flex;
+    gap: 10px;
+}
+footer .foot{
+    padding: 0px 120px 30px 120px;
+    text-align: center;
+}
+footer .foot p{
+    padding-top: 25px;
+}
