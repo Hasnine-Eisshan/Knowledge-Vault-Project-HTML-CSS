@@ -149,6 +149,10 @@ nav .links a{
     text-align: center;
     border-radius: 20px;
 }
+#cards .cards-conteiner .card:hover{
+    /* for zoom effect */
+    transform: scale(1.1); 
+}
 #cards .cards-conteiner .card img{
     background-color: #F95555;
     padding: 10px;
